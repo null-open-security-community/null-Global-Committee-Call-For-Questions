@@ -26,7 +26,7 @@ The null Global Committee is a volunteer-led group focused on guiding the future
 1. Community members who are registered at null.community since or before September 30th 2023 are eligible voters.
 
 ## Eligibility for Candidates running for the committee
-<TBD>
+`<TBD>`
 
 ## Election Procedure
 1. A GitHub issue has been created to gather a list of questions: [Issue Link](https://github.com/null-open-security-community/null-Global-Committee-Call-For-Questions/issues/1).
